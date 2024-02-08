@@ -17,8 +17,12 @@ Piphagoras tree examples - recustion level 9
 
 **task 3**
 
-examples visualisation: The shortest paths from DA to NY
+examples visualisation:
+
+The shortest paths from DA to NY
 ![](./assets/task_3.png)
+
+---
 
 **task 4**
 
