@@ -1,4 +1,5 @@
-#####task 1
+**task 1**
+
 LinkedList's method `insertion_sort`
 LinkedList's method `reverse`
 function `merge_llists`
@@ -7,33 +8,35 @@ Use examples inside task_1.py
 
 ---
 
-#####task 2
+**task 2**
+
 Piphagoras tree examples - recustion level 9
 ![Piphagoras tree](./assets/task_2.png "Piphagoras tree")
 
 ---
 
-#####task 3
+**task 3**
+
 examples visualisation: The shortest paths from DA to NY
 ![](./assets/task_3.png)
 
-#####task 4
+**task 4**
+
 Binary heap examples
 ![Binary heap](./assets/task_4.png)
 
 ---
 
-#####task 5
+**task 5**
 
 DFS
 ![dfs](./assets/task_5_dfs.png)
-
 BFS
 ![bfs](./assets/task_5_bfs.png)
 
 ---
 
-#####task 6
+**task 6**
 
 examples budget 100
 | Algorithm | Total Cost | Total Calories | Items |
@@ -43,7 +46,7 @@ examples budget 100
 
 ---
 
-#####task 7
+**task 7**
 
 Distribution of the sum of points when rolling two dice
 10 000 000 times
